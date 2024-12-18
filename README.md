@@ -6,7 +6,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: LAB (Installation Guide)](https://github.com/FelixKwan-Labs/osTicket-LAB)
-  - [osTicket: LAB (Installation Guide)](https://github.com/FelixKwan-Labs/osTicket-LAB)
+  - [osTicket: LAB (Sandbox)](https://github.com/FelixKwan-Labs/osTicket-Sandbox-)
 
 <h2> Connect with me:</h2>
 
